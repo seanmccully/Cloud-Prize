@@ -6,6 +6,8 @@ Edit this page to describe your Submission.
     * Best New Feature
     * Best Contribution to Operational Tools, Availability, and Manageability
     * Best Portability Enhancement
+    * Best Contribution to Performance Improvement
+    * Best Datastore Integration
     * Best Usability Enhancement
         + update configuration and management of Cassandra nodes. Feature List below.
 ## Describe your Submission
